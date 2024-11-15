@@ -23,4 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
+# bun
 bun.lockb
+
+# pnpm 
+pnpm-lock.yaml
+
+# yarn
+yarn.lock
